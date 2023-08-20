@@ -8,8 +8,6 @@
   </div>
 
   <ul>
-    <li>🔭 I am currently working on building a portfolio</li>
-    <li>🌱 I'm learning Java</li>
     <li>📫 How to reach me: ...</li>
   </ul>
 
@@ -23,7 +21,7 @@
     <a href="https://www.codewars.com/users/NicolasSSantos" target="_blank">
       <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.kaggle.com/your_username" target="_blank">
+    <a href="https://www.kaggle.com/nicolasssoares" target="_blank">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
     </a>
   </div>
