@@ -7,8 +7,6 @@
     <h3 align="center">A committed programming enthusiast looking for challenges and growth</h3>
   </div>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasssantos&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasssantos" /> </p>
-
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/NicolasSSantos">Residência Mackenzie</a></li>
     <li>🌱 I’m currently learning <strong>Data Science and Analysis</strong></li>
