@@ -9,8 +9,6 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasssantos&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasssantos" /> </p>
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasssantos" alt="nicolasssantos" /></a> </p>
-
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/NicolasSSantos">Residência Mackenzie</a></li>
     <li>🌱 I’m currently learning <strong>Data Science and Analysis</strong></li>
