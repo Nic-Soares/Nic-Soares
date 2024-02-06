@@ -1,51 +1,56 @@
-<div align="center">
-  <p align="center">
-    <img align="right" height="200" src="https://media.giphy.com/media/jdOm0IddQuJP2/giphy.gif" />
-  </p>
-  <div>
-    <h1 align="center">Hi 👋, I'm Nicolas</h1>
-    <h3 align="center">A committed programming enthusiast looking for challenges and growth</h3>
-  </div>
+# Hi 👋, I'm Nicolas Santos
+### A committed programming enthusiast looking for challenges and growth
 
-  <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/NicolasSSantos">Residência Mackenzie</a></li>
-    <li>🌱 I’m currently learning <strong>Data Science and Analysis</strong></li>
-  </ul>
+- 🔭 I’m currently working on [SuperMarketDB](https://github.com/NicolasSSantos/SuperMarketDB)
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/nicolas-soares-797847121" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://kaggle.com/nicolasssoares" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank">
-    </a>
-    <a href="https://discordapp.com/users/nicotyno" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-    </a>
-  </p>
+- 🌱 I’m currently learning **Data, Power BI, and Back-End**
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-    <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-    <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-original.svg" />
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-icon.svg" />
-  </p>
+- 🤝 I’m looking for help with **Back-End**
 
-  <br>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&layout=compact&langs_count=10&theme=dark&hide_title=true" />
-  </div>
 
-  <br>
+### Connect with me:
+
+[<img src="img/social_media/outlook.svg" alt="e-mail" width="26px">]()
+[<img src="img/social_media/discord.svg" alt="e-mail" width="26px">]()
+
+
+### Languages and Tools:
+
+<img align="left" alt="Git" width="26px" src="img/languages/python.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/languages/java.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/languages/rstudio.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/tools/figma.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/tools/git.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/tools/mysql-workbench.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/tools/sqlite.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/tools/Postgresql_elephant.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/tools/power-bi.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="img/system/tux.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="26px" src="/home/nicolas/Projects/NicolasSSantos/img/tools/utilities-terminal.svg" style="padding-right:10px;" />
+
+<br>
+<br>
+
+---
+<br>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolasSSantos&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="Anurag's GitHub stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&layout=compact&langs_count=8&theme=dark&hide_title=true&width=48%" alt="Top Langs" style="width: 48%;">
+</div>
+
+<br>
 
   <div align="center">
     <h2>Workstation</h2>
@@ -54,7 +59,7 @@
   <div align="center">
     <p>I use two operating systems (dual boot)</p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </div>
 
@@ -67,9 +72,4 @@
     </a>
   </div>
 
-  <h2 align="center">Contribution</h2>
 
-  <p align="center">
-    <img src="https://github.com/NicolasSSantos/NicolasSSantos/raw/output/github-contribution-grid-snake.svg" alt="snake">
-  </p>
-</div>
