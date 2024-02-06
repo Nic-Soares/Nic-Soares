@@ -24,7 +24,7 @@
 <img align="left" alt="PostgreSQL Elephant" width="26px" src="img/tools/Postgresql_elephant.svg" style="padding-right:10px;" />
 <img align="left" alt="Power BI" width="26px" src="img/tools/power-bi.svg" style="padding-right:10px;" />
 <img align="left" alt="Tux" width="26px" src="img/system/tux.svg" style="padding-right:10px;" />
-<img align="left" alt="Utilities Terminal" width="26px" src="/home/nicolas/Projects/NicolasSSantos/img/tools/utilities-terminal.svg" style="padding-right:10px;" />
+<img align="left" alt="Utilities Terminal" width="26px" src="img/tools/utilities-terminal.svg" style="padding-right:10px;" />
 
 <br>
 <br>
