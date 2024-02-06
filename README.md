@@ -9,40 +9,28 @@
 
 
 
-### Connect with me:
 
-[<img src="img/social_media/outlook.svg" alt="e-mail" width="26px">]()
-[<img src="img/social_media/discord.svg" alt="e-mail" width="26px">]()
 
 
 ### Languages and Tools:
 
-<img align="left" alt="Git" width="26px" src="img/languages/python.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/languages/java.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/languages/rstudio.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/tools/figma.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Python" width="26px" src="img/languages/python.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="img/languages/java.svg" style="padding-right:10px;" />
+<img align="left" alt="RStudio" width="26px" src="img/languages/rstudio.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="img/tools/figma.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="img/tools/git.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/tools/mysql-workbench.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/tools/sqlite.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/tools/Postgresql_elephant.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/tools/power-bi.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="img/system/tux.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="/home/nicolas/Projects/NicolasSSantos/img/tools/utilities-terminal.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL Workbench" width="26px" src="img/tools/mysql-workbench.svg" style="padding-right:10px;" />
+<img align="left" alt="SQLite" width="26px" src="img/tools/sqlite.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL Elephant" width="26px" src="img/tools/Postgresql_elephant.svg" style="padding-right:10px;" />
+<img align="left" alt="Power BI" width="26px" src="img/tools/power-bi.svg" style="padding-right:10px;" />
+<img align="left" alt="Tux" width="26px" src="img/system/tux.svg" style="padding-right:10px;" />
+<img align="left" alt="Utilities Terminal" width="26px" src="/home/nicolas/Projects/NicolasSSantos/img/tools/utilities-terminal.svg" style="padding-right:10px;" />
 
 <br>
 <br>
 
 ---
+
 <br>
 
 <div style="display: flex; justify-content: space-between;">
