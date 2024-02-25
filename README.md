@@ -23,8 +23,8 @@
 
 ### Badges:
 
-![[Google Data Analytics][google-data-analytics-url]][google-data-analytics-badge]
-![[Google Project Management][google-data-analytics-url]][google-data-analytics-badge]
+[![Google Data Analytics][google-data-analytics-badge]][google-data-analytics-url]
+[![Google Project Management][google-project-management-badge]][google-project-management-url]
 
 ---
 
