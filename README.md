@@ -9,24 +9,24 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="img/languages/python.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="img/languages/java.svg" style="padding-right:10px;" />
-<img align="left" alt="RStudio" width="26px" src="img/languages/rstudio.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="26px" src="img/tools/figma.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="img/tools/git.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL Workbench" width="26px" src="img/tools/mysql-workbench.svg" style="padding-right:10px;" />
-<img align="left" alt="SQLite" width="26px" src="img/tools/sqlite.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL Elephant" width="26px" src="img/tools/Postgresql_elephant.svg" style="padding-right:10px;" />
-<img align="left" alt="Power BI" width="26px" src="img/tools/power-bi.svg" style="padding-right:10px;" />
-<img align="left" alt="Tux" width="26px" src="img/system/tux.svg" style="padding-right:10px;" />
-<img align="left" alt="Utilities Terminal" width="26px" src="img/tools/utilities-terminal.svg" style="padding-right:10px;" />
+![Python][python-32x]
+![Java][java-32x]
+![R][r-32x]
+![Figma][figma_32x]
+![Git][git_32x]
+![MySQL][mysql-workbench_32x]
+![Postgresql][Postgresql_elephant_32x]
+![SQLite][sqlite_32x]
+![PowerBI][power-bi_32x]
+![Terminal][utilities-terminal_32x]
+![Linux][linux-32x]
 
-<br>
-<br>
+### Badges:
+
+![[Google Data Analytics][google-data-analytics-url]][google-data-analytics-badge]
+![[Google Project Management][google-data-analytics-url]][google-data-analytics-badge]
 
 ---
-
-<br>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=N1koDev&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="Anurag's GitHub stats" style="width: 50%;">
@@ -56,3 +56,32 @@
   </div>
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+<!-- Languages -->
+[python-32x]: img/languages/python_32x.svg
+[java-32x]: img/languages/java_32x.svg
+[r-32x]: img/languages/rstudio_32x.svg
+
+<!-- Tools -->
+[figma_32x]: img/tools/figma_32x.svg
+[git_32x]: img/tools/git_32x.svg
+[mysql-workbench_32x]: img/tools/mysql-workbench_32x.svg
+[Postgresql_elephant_32x]: img/tools/postgresql_elephant_32x.svg
+[sqlite_32x]: img/tools/sqlite_32x.svg
+[power-bi_32x]: img/tools/power-bi_32x.svg
+[utilities-terminal_32x]: img/tools/utilities-terminal_32x.svg
+
+<!-- Social Media -->
+[discord-32x]: img/social_media/discord_32x.svg
+[outlook-32x]: img/social_media/outlook_32x.svg
+
+<!-- Badge -->
+[google-data-analytics-badge]: img/badges/google_data_analysis.png
+[google-data-analytics-url]: https://www.credly.com/badges/f201d829-46b3-4f8b-8670-4612fd6d2b1c/public_url
+[google-project-management-badge]: img/badges/google_data_analysis.png
+[google-project-management-url]: https://www.credly.com/badges/b57edb4a-5111-4aa2-92b8-3f37bc162b99/public_url
+
+<!-- System -->
+[linux-32x]: img/system/tux_32.svg
