@@ -80,7 +80,7 @@
 <!-- Badge -->
 [google-data-analytics-badge]: img/badges/google_data_analysis.png
 [google-data-analytics-url]: https://www.credly.com/badges/f201d829-46b3-4f8b-8670-4612fd6d2b1c/public_url
-[google-project-management-badge]: img/badges/google_data_analysis.png
+[google-project-management-badge]: img/badges/google_project_management.png
 [google-project-management-url]: https://www.credly.com/badges/b57edb4a-5111-4aa2-92b8-3f37bc162b99/public_url
 
 <!-- System -->
