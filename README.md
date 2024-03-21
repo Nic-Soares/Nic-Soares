@@ -1,8 +1,6 @@
 # Hi 👋, I'm Nicolas Santos
 ### A committed programming enthusiast looking for challenges and growth
 
-- 🔭 I’m currently working on [SuperMarketDB](https://github.com/NicolasSSantos/SuperMarketDB)
-
 - 🌱 I’m currently learning **Data, Power BI, and Back-End**
 
 - 🤝 I’m looking for help with **Back-End**
