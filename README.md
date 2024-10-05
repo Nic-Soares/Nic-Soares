@@ -27,8 +27,8 @@
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1koDev&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="Anurag's GitHub stats" style="width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1koDev&layout=compact&langs_count=8&theme=dark&hide_title=true&width=48%" alt="Top Langs" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nic-Soares&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="Anurag's GitHub stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic-Soares&layout=compact&langs_count=8&theme=dark&hide_title=true&width=48%" alt="Top Langs" style="width: 48%;">
 </div>
 
 <br>
