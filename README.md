@@ -5,19 +5,23 @@
 
 - 🤝 I’m looking for help with **Back-End**
 
-### Languages and Tools:
+### Languages
+![Python][python-colloid]
+![Java][java-colloid]
+![Typescript][ts-colloid]
+![Css][css-colloid]
+![Html][html-colloid]
 
-![Python][python-32x]
-![Java][java-32x]
-![R][r-32x]
-![Figma][figma_32x]
-![Git][git_32x]
-![MySQL][mysql-workbench_32x]
-![Postgresql][Postgresql_elephant_32x]
-![SQLite][sqlite_32x]
-![PowerBI][power-bi_32x]
-![Terminal][utilities-terminal_32x]
-![Linux][linux-32x]
+### Tools:
+![Linux][linux-colloid]
+![Docker][docker-colloid]
+![Git][git-colloid]
+![Figma][figma-colloid]
+![Jupyter][jupyter-papirus]
+![MySQL Workbench][mysql-colloid]
+![PostgreSQL Elephant][postgresql-colloid]
+![Power BI][power-bi-colloid]
+
 
 ### Badges:
 
@@ -57,23 +61,9 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-<!-- Languages -->
-[python-32x]: img/languages/python_32x.svg
-[java-32x]: img/languages/java_32x.svg
-[r-32x]: img/languages/rstudio_32x.svg
-
-<!-- Tools -->
-[figma_32x]: img/tools/figma_32x.svg
-[git_32x]: img/tools/git_32x.svg
-[mysql-workbench_32x]: img/tools/mysql-workbench_32x.svg
-[Postgresql_elephant_32x]: img/tools/postgresql_elephant_32x.svg
-[sqlite_32x]: img/tools/sqlite_32x.svg
-[power-bi_32x]: img/tools/power-bi_32x.svg
-[utilities-terminal_32x]: img/tools/utilities-terminal_32x.svg
-
 <!-- Social Media -->
-[discord-32x]: img/social_media/discord_32x.svg
-[outlook-32x]: img/social_media/outlook_32x.svg
+[discord]: img/papirus/discord.svg
+[outlook]: img/papirus/outlook.svg
 
 <!-- Badge -->
 [google-data-analytics-badge]: img/badges/google_data_analysis.png
@@ -82,4 +72,37 @@
 [google-project-management-url]: https://www.credly.com/badges/b57edb4a-5111-4aa2-92b8-3f37bc162b99/public_url
 
 <!-- System -->
-[linux-32x]: img/system/tux_32.svg
+[linux]: img/papirus/tux.svg
+
+<!-- Additional Colloid Icons -->
+[docker-colloid]: img/colloid/docker.svg
+[figma-colloid]: img/colloid/figma.svg
+[git-colloid]: img/colloid/git.svg
+[java-colloid]: img/colloid/java-colloid.svg
+[html-colloid]: img/colloid/html.svg
+[css-colloid]: img/colloid/css.svg
+[js-colloid]: img/colloid/js.svg
+[linux-colloid]: img/colloid/linux.svg
+[python-colloid]: img/colloid/python-colloid.svg
+[R-colloid]: img/colloid/R.svg
+[ts-colloid]: img/colloid/ts.svg
+[mysql-colloid]: img/colloid/mysql-workbench.svg
+[postgresql-colloid]: img/colloid/postgresql.svg
+[power-bi-colloid]: img/colloid/power-bi.svg
+
+<!-- Additional Papirus Icons -->
+[discord-papirus]: img/papirus/discord.svg
+[docker-papirus]: img/papirus/docker-desktop.svg
+[figma-papirus]: img/papirus/figma.svg
+[git-papirus]: img/papirus/git.svg
+[java-papirus]: img/papirus/java.svg
+[jd-gui-papirus]: img/papirus/jd-gui.svg
+[jupyter-papirus]: img/papirus/jupyter.svg
+[outlook-papirus]: img/papirus/outlook.svg
+[python-papirus]: img/papirus/python.svg
+[rstudio-papirus]: img/papirus/rstudio.svg
+[tux-papirus]: img/papirus/tux.svg
+[utilities-terminal-papirus]: img/papirus/utilities-terminal.svg
+
+<!-- Additional Internet Icons -->
+[postgresql-colloid]: img/internet/postgresql_elephant.svg
