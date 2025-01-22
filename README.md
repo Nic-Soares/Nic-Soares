@@ -17,7 +17,6 @@
 ![Docker][docker-colloid]
 ![Git][git-colloid]
 ![Figma][figma-colloid]
-<!-- ![Jupyter][jupyter-colloid] -->
 ![MySQL Workbench][mysql-colloid]
 ![PostgreSQL Elephant][postgresql-colloid]
 ![Power BI][power-bi-colloid]
