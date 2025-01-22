@@ -17,7 +17,7 @@
 ![Docker][docker-colloid]
 ![Git][git-colloid]
 ![Figma][figma-colloid]
-![Jupyter][jupyter-papirus]
+![Jupyter][jupyter-colloid]
 ![MySQL Workbench][mysql-colloid]
 ![PostgreSQL Elephant][postgresql-colloid]
 ![Power BI][power-bi-colloid]
@@ -89,6 +89,7 @@
 [mysql-colloid]: img/colloid/mysql-workbench.svg
 [postgresql-colloid]: img/colloid/postgresql.svg
 [power-bi-colloid]: img/colloid/power-bi.svg
+[jupyter-colloid]: img/colloid/jupyter.svg
 
 <!-- Additional Papirus Icons -->
 [discord-papirus]: img/papirus/discord.svg
