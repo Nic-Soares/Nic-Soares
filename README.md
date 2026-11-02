@@ -28,9 +28,9 @@ data pipelines and the product layer around them. São Paulo, Brazil.
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Creact%2Cnextjs%2Cdotnet%2Cpostgres%2Cmongodb%2Celasticsearch%2Cdocker%2Cgit%2Cgitlab%2Caws%2Cazure%2Ccloudflare%2Cfigma%2Clinux&perline=16&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Creact%2Cnextjs%2Cdotnet%2Cpostgres%2Cmongodb%2Celasticsearch%2Cdocker%2Cgit%2Cgitlab%2Caws%2Cazure%2Ccloudflare%2Cfigma%2Clinux&perline=16&theme=light">
-  <img alt="Python, TypeScript, React, Next.js, .NET, PostgreSQL, MongoDB, Elasticsearch, Docker, Git, GitLab, AWS, Azure, Cloudflare, Figma, Linux" src="https://skillicons.dev/icons?i=py,ts,react,nextjs,dotnet,postgres,mongodb,elasticsearch,docker,git,gitlab,aws,azure,cloudflare,figma,linux&perline=16">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Cts%2Creact%2Cnextjs%2Cdotnet%2Cpostgres%2Cmongodb%2Celasticsearch%2Cdocker%2Cgit%2Cgitlab%2Caws%2Cazure%2Ccloudflare%2Cfigma%2Clinux&perline=16&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Cts%2Creact%2Cnextjs%2Cdotnet%2Cpostgres%2Cmongodb%2Celasticsearch%2Cdocker%2Cgit%2Cgitlab%2Caws%2Cazure%2Ccloudflare%2Cfigma%2Clinux&perline=16&theme=light">
+  <img alt="Python, Java, TypeScript, React, Next.js, .NET, PostgreSQL, MongoDB, Elasticsearch, Docker, Git, GitLab, AWS, Azure, Cloudflare, Figma, Linux" src="https://skillicons.dev/icons?i=py,java,ts,react,nextjs,dotnet,postgres,mongodb,elasticsearch,docker,git,gitlab,aws,azure,cloudflare,figma,linux&perline=16">
 </picture>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
