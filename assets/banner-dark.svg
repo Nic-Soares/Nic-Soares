@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">Nicolas Soares Santos</title>
+  <desc id="d">AI Systems Analyst. Retrieval, data pipelines, product.</desc>
+  <rect width="1200" height="260" rx="12" fill="#0d1117"/>
+  <g stroke="#21262d" stroke-width="1" fill="none">
+    <path d="M760 0V260M840 0V260M920 0V260M1000 0V260M1080 0V260M1160 0V260"/>
+    <path d="M700 40H1200M700 100H1200M700 160H1200M700 220H1200"/>
+  </g>
+  <path d="M840 100L920 40L1000 160L1080 220" stroke="#2f81f7" stroke-width="2" fill="none"/>
+  <g fill="#2f81f7">
+    <circle cx="840" cy="100" r="5"/><circle cx="920" cy="40" r="5"/><circle cx="1000" cy="160" r="5"/><circle cx="1080" cy="220" r="5"/>
+  </g>
+  <rect x="64" y="64" width="48" height="4" fill="#2f81f7"/>
+  <text x="64" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="700" fill="#e6edf3">Nicolas Soares Santos</text>
+  <text x="64" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#9da7b3">AI Systems Analyst  |  Retrieval, data pipelines, product</text>
+</svg>
